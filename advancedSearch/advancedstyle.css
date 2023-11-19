@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/*header styling*/
+body {
+    height: 100vh;
+    overflow: hidden;
+    display : flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: Roboto, sans-serif;
+    margin: 5px 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: right;
+    gap: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+.link {
+    text-decoration: none ;
+    color: black;
+}
+
+.link:hover{
+    text-decoration: underline;
+}
+
+
+
+/*main body/content styling*/
+
+.content {
+    padding: 20px;
+    width:77%;
+}
+
+.advanced-search {
+    margin-top:0;
+    color: red;
+    font-size: 20px;
+}
+
+.find-pages-with {
+    font-size: 15px;
+}
+
+label {
+    display: inline-block;
+    width: 300px;
+    font-size: 14px;
+}
+
+.search-boxes input {
+    display: inline-block;
+    border: 0.5px solid #ddd;
+    width: 300px;
+    padding: 5px;
+    margin-top: 8px;
+}
+
+input[name=btnAdvanced]:hover {
+    border:1px solid #3079ed;
+}
+
+input[name=btnAdvanced] {
+    display: flex;
+    border: none;
+    background-color: #4d90fe;
+    color: #fff;
+    font-weight:500;
+    font-family: Roboto, sans-serif;
+    padding: 8px;
+    margin-top:15px;
+}
+
+
+/*footer styling*/
+
+.footer {
+    display: flex;
+    justify-content: flex-start;
+    background-color: #eeeeee;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+}
