@@ -1,2 +1,2 @@
 # google-search-clone
-Google Search clone
+A clone of Google Search featuring Google Images and Advanced Search.
