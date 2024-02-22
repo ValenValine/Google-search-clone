@@ -2,7 +2,8 @@
 This is a clone of Google Search featuring Google Images and Advanced Search, created as Project 0 of Harvard's CS50W course. The project is built using HTML and CSS.
 
 ## Demo
-You can view a demo of the project [here.]((https://www.youtube.com/watch?v=GRqqAp8yqeQ)
+You can view a demo of the project (here.)[https://www.youtube.com/watch?v=GRqqAp8yqeQ]
+
 **Timestamp:**
 
 00:00 Your website should have at least three pages: one for regular Google Search (which must be called index.html), one for Google Image Search, and one for Google Advanced Search. On the Google Search page, there should be links in the upper-right of the page to go to Image Search or Advanced Search. On each of the other two pages, there should be a link in the upper-right to go back to Google Search.
