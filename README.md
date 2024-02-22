@@ -2,7 +2,7 @@
 This is a clone of Google Search featuring Google Images and Advanced Search, created as Project 0 of Harvard's CS50W course. The project is built using HTML and CSS.
 
 ## Demo
-You can view a demo of the project (here.)[https://www.youtube.com/watch?v=GRqqAp8yqeQ]
+You can view a demo of the project **[here](https://www.youtube.com/watch?v=GRqqAp8yqeQ).**
 
 **Timestamp:**
 
