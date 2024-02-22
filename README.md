@@ -50,12 +50,12 @@ To run the project locally on your machine, follow these steps:
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/your-username/google-search-clone.git
+git clone https://github.com/ValenValine/google-search-clone.git
 Navigate to the project directory:
 bash
 Copy code
 cd google-search-clone
-Open any of the HTML files (index.html, image.html, advanced.html) in your web browser to explore the different search pages.
+Open any of the HTML files in your web browser to explore the different search pages.
 
 ## License
 This project is for educational purposes only.
