@@ -1,5 +1,6 @@
 ## Google Search Clone
-This is a clone of Google Search featuring Google Images and Advanced Search, created as Project 0 of Harvard's CS50W course. The project is built using HTML and CSS.
+This is a clone of Google Search featuring Google Images and Advanced Search, built entirely using HTML and CSS.
+The site is live at: https://valenvaline.github.io/Google-search-clone/
 
 ## Demo
 You can view a demo of the project **[here](https://www.youtube.com/watch?v=GRqqAp8yqeQ).**
